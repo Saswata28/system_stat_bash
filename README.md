@@ -15,5 +15,5 @@ Or you can run it with bash without making it executable:
 bash systemstat.sh
 ```
 
-It should work on mac too, but the `awk` may not show the desired output becuase mac may have different output for the same commands.
+It should work on mac too, but `awk` may not show the desired output becuase mac may have different output for the same commands.
 You can run it in windows with wsl.
